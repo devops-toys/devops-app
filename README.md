@@ -112,8 +112,3 @@ Upbound Universal Crossplane is an open-source tool that extends Kubernetes to m
 
 With Crossplane, users can create custom resources and controllers to model infrastructure needs as code. This reduces complexity and ensures consistency by providing a unified API for managing both infrastructure and applications. Upbound also offers commercial support for scaling infrastructure management in large enterprises.
 
----
-
-This overview provides a comprehensive introduction to each tool. For more detailed information, please refer to the official documentation of each project. Feel free to reach out if you need further assistance or resources!
-
-
