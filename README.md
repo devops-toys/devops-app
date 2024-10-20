@@ -112,3 +112,8 @@ Upbound Universal Crossplane is an open-source tool that extends Kubernetes to m
 
 With Crossplane, users can create custom resources and controllers to model infrastructure needs as code. This reduces complexity and ensures consistency by providing a unified API for managing both infrastructure and applications. Upbound also offers commercial support for scaling infrastructure management in large enterprises.
 
+## VCluster
+
+VCluster is a tool for creating lightweight virtual Kubernetes clusters. These virtual clusters are useful for testing, isolation, and multi-tenancy in a Kubernetes environment. VCluster runs inside a Kubernetes namespace, providing the full experience of a Kubernetes cluster without the overhead of creating a separate physical cluster.
+
+VCluster is especially beneficial for development teams that need isolated environments for testing without the cost and complexity of managing multiple physical clusters. It helps save resources while allowing developers to work in environments that closely mimic production. The CLI helps manage vclusters, making it easy to create, scale, and delete virtual clusters as needed.
